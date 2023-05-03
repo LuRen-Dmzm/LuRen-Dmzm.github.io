@@ -33,7 +33,7 @@ frameborder="no"
 framespacing="0" 
 allowfullscreen="true" 
 height=580 
-width=750 >  
+width=1000 >  
 </iframe>  
 
 <iframe 
