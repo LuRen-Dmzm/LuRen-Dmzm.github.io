@@ -18,11 +18,7 @@ tags:
 
 [来源]:https://www.chinanews.com/  
 
-```javascript
-$(document).ready(function () {
-    alert('新时代中国特色恐怖主义思想');
-});
-```  
+<figure class="highlight go"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">package</span> main</span><br><span class="line"></span><br><span class="line"><span class="keyword">import</span> <span class="string">"fmt"</span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="title">main</span><span class="params">()</span></span>{</span><br><span class="line">    fmt.Println(<span class="string">"新时代中国特色恐怖主义思想"</span>)</span><br><span class="line">}</span><br></pre></td></tr></tbody></table></figure> 
 
 ↓恐怖主义分子的下属↓
 <iframe 
